@@ -1,4 +1,4 @@
 print("hell")
 a= 12+12
 print(a)
-print("kek")
+print("a*10")
